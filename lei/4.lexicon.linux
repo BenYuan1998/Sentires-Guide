@@ -62,7 +62,7 @@ lowest.frequency=4
 ## In this part, all metrics and thresholds that are used in the approach 
 ## should be specified.
 ##
-include=/home/comp/csleili/0/English-Jar/preset/relax.threshold
+include=C:/Users/Administrator/Desktop/English-Jar/preset/relax.threshold
 
 ##
 ##############################################################################
@@ -75,7 +75,7 @@ include=/home/comp/csleili/0/English-Jar/preset/relax.threshold
 ##
 ## integrated property file:
 #include=${path.preset}/default.resource
-include=/home/comp/csleili/0/English-Jar/preset/english.resource
+include=C:/Users/Administrator/Desktop/English-Jar/preset/english.resource
 
 ##
 # resource.stopword.path=stopword.res
@@ -91,8 +91,8 @@ include=/home/comp/csleili/0/English-Jar/preset/english.resource
 ##
 ## integrated property file:
 #include=${path.preset}/default.pattern
-include=/home/comp/csleili/0/English-Jar/preset/english.pattern
-include=/home/comp/csleili/0/English-Jar/preset/default.mapping
+include=C:/Users/Administrator/Desktop/English-Jar/preset/english.pattern
+include=C:/Users/Administrator/Desktop/English-Jar/preset/default.mapping
 
 ##
 ##############################################################################
